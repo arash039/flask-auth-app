@@ -40,17 +40,4 @@ python app.py
 ### 6. Open in Browser
 Visit: `http://127.0.0.1:5000/`
 
-## Requirements File (`requirements.txt`)
-To ensure others can install dependencies easily, create a `requirements.txt` file:
-```sh
-flask
-flask-sqlalchemy
-flask-login
-werkzeug
-```
-Save it and install with:
-```sh
-pip install -r requirements.txt
-```
-
 
